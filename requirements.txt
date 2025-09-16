@@ -1,9 +1,10 @@
 Flask
 Flask-Cors
 qiskit
-qiskit-aez
+qiskit-aer
 PyJWT
 python-dotenv
 gunicorn
-pysmtplib
+
+
 
