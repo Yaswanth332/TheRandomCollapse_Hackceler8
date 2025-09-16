@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+qiskit
+qiskit-aer
+PyJWT
+python-dotenv
+gunicorn
+pysmtplib
+
